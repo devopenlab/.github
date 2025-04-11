@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### About us
+
+Just as the name says, devopenlab is an openlab for developers.
+
 <!--
 
 **Here are some ideas to get you started:**
